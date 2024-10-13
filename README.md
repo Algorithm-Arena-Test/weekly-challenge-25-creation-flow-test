@@ -2,7 +2,7 @@
 
 **For this challenge, i am testing .** this is a test
 
-<img alt="image" src="https://github.com/Algorithm-Arena-Test/creation flow test/blob/main/thumbnail.png">
+<img alt="image" src="https://github.com/Algorithm-Arena-Test/weekly-challenge-25-creation-flow-test/blob/main/thumbnail">
 
 
 ### Prizes:
